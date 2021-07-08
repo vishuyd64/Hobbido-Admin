@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Activity" transform="translate(4922 4624)">
+    <circle id="Icon_BG" data-name="Icon BG" cx="30" cy="30" r="30" transform="translate(-4922 -4624)" fill="#eeedfc"/>
+    <path id="Icon_feather-activity" data-name="Icon feather-activity" d="M31.889,17.5H26.111l-4.333,13-8.667-26-4.333,13H3" transform="translate(-4909.444 -4611.5)" fill="none" stroke="#672a7a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

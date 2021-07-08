@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.25" height="21.955" viewBox="0 0 17.25 21.955">
+  <g id="receipt" transform="translate(-5.625 -2.25)">
+    <path id="Path_143" data-name="Path 143" d="M23.625,18h1.568v1.568H23.625Z" transform="translate(-5.455 -4.773)" fill="#fff"/>
+    <path id="Path_144" data-name="Path 144" d="M10.125,18H16.4v1.568H10.125Z" transform="translate(-1.364 -4.773)" fill="#fff"/>
+    <path id="Path_145" data-name="Path 145" d="M23.625,13.5h1.568v1.568H23.625Z" transform="translate(-5.455 -3.409)" fill="#fff"/>
+    <path id="Path_146" data-name="Path 146" d="M10.125,13.5H16.4v1.568H10.125Z" transform="translate(-1.364 -3.409)" fill="#fff"/>
+    <path id="Path_147" data-name="Path 147" d="M10.125,9H21.1v1.568H10.125Z" transform="translate(-1.364 -2.045)" fill="#fff"/>
+    <path id="Path_148" data-name="Path 148" d="M21.307,2.25H7.193A1.57,1.57,0,0,0,5.625,3.818v19.6a.784.784,0,0,0,.784.784h.784a.783.783,0,0,0,.627-.314l1.725-2.3,1.725,2.3a.811.811,0,0,0,1.255,0l1.725-2.3,1.725,2.3a.811.811,0,0,0,1.255,0l1.725-2.3,1.725,2.3a.784.784,0,0,0,.627.314h.784a.784.784,0,0,0,.784-.784V3.818A1.57,1.57,0,0,0,21.307,2.25Zm0,19.864-1.725-2.3a.811.811,0,0,0-1.255,0l-1.725,2.3-1.725-2.3a.811.811,0,0,0-1.255,0l-1.725,2.3-1.725-2.3a.811.811,0,0,0-1.255,0l-1.725,2.3V3.818H21.307Z" transform="translate(0)" fill="#fff"/>
+  </g>
+</svg>
